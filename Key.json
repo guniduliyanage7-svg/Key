@@ -1,0 +1,16 @@
+{
+  "keys": [
+    {
+      "key": "KEY-12345",
+      "proxy": "123.45.67.89:8080",
+      "expirySeconds": 1770000000,
+      "deviceId": "abcd1234efgh"
+    },
+    {
+      "key": "VIP-99999",
+      "proxy": "98.76.54.32:1080",
+      "expirySeconds": 1800000000,
+      "deviceId": ""
+    }
+  ]
+}
